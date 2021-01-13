@@ -1,4 +1,4 @@
-apiVersion: v2
+apiVersion: v1
 name: tonic
 description: A Helm chart for Tonic and EKS
 type: application
